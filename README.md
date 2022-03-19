@@ -32,6 +32,7 @@ I am a student-programmer from Russia.
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20"/> 
   </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&locale=en&layout=compact" alt="neutroo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&locale=en" alt="neutroo" /></p>
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&locale=en&layout=compact" alt="neutroo"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&locale=en" alt="neutroo" />
+</p>
