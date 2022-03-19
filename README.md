@@ -1,13 +1,13 @@
 ### Hi there, I'm Rodion 👋
 
 <a href="https://vk.com/neutr0o">
-  <img alignment="left" width="20" style="margin-left: 10" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
+  <img src="https://img.shields.io/badge/-VK-0077FF?logo=VK"/>
 </a>
 <a href="https://t.me/neutr0o">
-  <img alignment="left" width="20" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+  <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram"/>
 </a>
 <a href="https://www.instagram.com/nyautro/">
-  <img alignment="left" width="20" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"/>
 </a>
 
 <br/>
@@ -18,19 +18,23 @@ I am a student-programmer from Russia.
 - 🔭 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
 - 🌱 I’m currently learning SQL and Entity Framework Core
 
-**Languages and Tools:** &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20"/> 
-  </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20"/> 
-  </a> 
+#### Languages and Tools:
+
+<a>
+  <img src="https://img.shields.io/badge/-C Sharp-239120?logo=C Sharp"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=Microsoft SQL Server"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus"/>
+</a>
+<a>
+  <img src="https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white"/>
+</a>
 
 <p align="center">
   <img align="top" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="neutroo"/>
