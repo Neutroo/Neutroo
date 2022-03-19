@@ -33,6 +33,6 @@ I am a student-programmer from Russia.
   </a> 
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&locale=en&layout=compact" alt="neutroo"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&locale=en" alt="neutroo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&locale=en&layout=compact" alt="neutroo"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&locale=en" alt="neutroo"/>
 </p>
