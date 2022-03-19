@@ -35,7 +35,7 @@ I am a student-programmer from Russia.
   <img src="https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white"/>
 </a>
 
-<p align="center">
-  <img align="top" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="neutroo"/>
-  <img align="center" width="485" src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&locale=en" alt="neutroo"/>
+<p>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="neutroo"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&locale=en" alt="neutroo"/>
 </p>
