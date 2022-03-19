@@ -1,19 +1,17 @@
 ### Hi there, I'm Rodion 👋
 
-&nbsp;
 <a href="https://vk.com/neutr0o">
-  <img src="https://img.shields.io/badge/-VK-0077FF?logo=VK"/>
+  <img align="left" src="https://img.shields.io/badge/-VK-0077FF?logo=VK"/>
 </a>
 <a href="https://t.me/neutr0o">
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram"/>
+  <img align="left" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram"/>
 </a>
 <a href="https://www.instagram.com/nyautro/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"/>
 </a>
 
 <br/>
-
-###
+<br/>
 
 I am a student-programmer from Russia.
 - 🔭 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
@@ -21,18 +19,17 @@ I am a student-programmer from Russia.
 
 #### Languages and Tools:
 
-&nbsp;
 <a>
-  <img src="https://img.shields.io/badge/-C Sharp-239120?logo=C Sharp"/>
+  <img align="left" src="https://img.shields.io/badge/-C Sharp-239120?logo=C Sharp"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?"/>
+  <img align="left" src="https://img.shields.io/badge/-.NET-512BD4?"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=Microsoft SQL Server"/>
+  <img align="left" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=Microsoft SQL Server"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus"/>
+  <img align="left" src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus"/>
 </a>
 <a>
   <img src="https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white"/>
