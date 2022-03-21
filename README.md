@@ -32,7 +32,7 @@ I am a student-programmer from Russia.
   <img align="left" src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white"/>
 </a>
 
 <p>
