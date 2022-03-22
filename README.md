@@ -36,6 +36,6 @@ I'm a student-programmer from Moscow.
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=ff9952&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=b93fb8&border_color=ff9952" alt="neutroo"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=ff9952&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ff9952" alt="neutroo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=ffE152&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=b93fb8&border_color=ffE152" alt="neutroo"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=ffE152&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ffE152" alt="neutroo"/>
 </p>
