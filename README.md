@@ -1,4 +1,4 @@
-## Hi there, I'm Rodion 👋
+![NeutroBanner](./Images/NeutroBanner.png)
 
 <a href="https://vk.com/neutr0o">
   <img src="https://img.shields.io/badge/-VK-0077FF?logo=VK"/>
@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"/>
 </a>
 
-<br/>
-
-I am a student-programmer from Moscow.
+I'm a student-programmer from Moscow.
 - 🔨 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
 - 📚 I’m currently learning SQL and Entity Framework Core
 
@@ -38,6 +36,6 @@ I am a student-programmer from Moscow.
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=dc4964" alt="neutroo"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en" alt="neutroo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=ff9952&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=b93fb8&border_color=ff9952" alt="neutroo"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=ff9952&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ff9952" alt="neutroo"/>
 </p>
