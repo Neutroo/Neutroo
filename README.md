@@ -19,7 +19,7 @@ I am a student-programmer from Moscow.
 ## 🧰 Languages and Tools:
 <div style = "display: inline;">
   <a>
-    <img src="https://img.shields.io/badge/-C Sharp-239120?logo=C Sharp"/>
+    <img src="https://img.shields.io/badge/-CSharp-239120?logo=CSharp"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.NET"/>
@@ -37,9 +37,7 @@ I am a student-programmer from Moscow.
 
 ## 📈 GitHub Stats
 
-<br/>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20" alt="neutroo"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&theme=synthwave&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en" alt="neutroo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=dc4964" alt="neutroo"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=00fefe&text_color=ffffff&bg_color=0d1117&locale=en" alt="neutroo"/>
 </p>
