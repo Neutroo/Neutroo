@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"/>
 </a>
 
-I'm a student-programmer from Moscow.
-- 🔨 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
-- 📚 I’m currently learning SQL and Entity Framework Core
+I'm a student-programmer from Moscow, working in a .NET develompent field. My area of interest is also low-level programming & IoT.
+* 🔨 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
+* 📚 I’m currently learning SQL and Entity Framework Core
 
 ## 🧰 Languages and Tools:
 <div style = "display: inline;">
