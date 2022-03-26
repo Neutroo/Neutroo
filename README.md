@@ -1,37 +1,21 @@
 ![NeutroBanner](./Images/NeutroBanner.png)
 
-<a href="https://vk.com/neutr0o">
-  <img src="https://img.shields.io/badge/-VK-0077FF?logo=VK"/>
-</a>
-<a href="https://t.me/neutr0o">
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram"/>
-</a>
-<a href="https://www.instagram.com/nyautro/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white"/>
-</a>
+[![VK](https://img.shields.io/badge/VK-informational?style=flat&logo=VK&color=0077FF)](https://vk.com/neutr0o)
+[![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&color=26A5E4)](https://t.me/neutr0o)
+[![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&color=E4405F&logoColor=white)](https://www.instagram.com/nyautro)
 
 I'm a student-programmer from Moscow, working in a .NET develompent field. My area of interest is also low-level programming & IoT.
 * 🔨 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
 * 📚 I’m currently learning SQL and Entity Framework Core
 
 ## 🧰 Languages and Tools:
-<div style = "display: inline;">
-  <a>
-    <img src="https://img.shields.io/badge/-CSharp-239120?logo=CSharp"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.NET"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=Microsoft SQL Server"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus"/>
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white"/>
-  </a>
-</div>
+![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ffE152&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=ffE152&labelColor=0d1117)
+![.NET](https://img.shields.io/badge/.NET-informational?style=flat&logo=.NET&color=ffE152&labelColor=0d1117)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&color=ffE152&labelColor=0d1117)
+![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=ffE152&labelColor=0d1117)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-informational?style=flat&logo=Visual-Studio&color=ffE152&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=ffE152&labelColor=0d1117)
 
 ## 📈 GitHub Stats
 
