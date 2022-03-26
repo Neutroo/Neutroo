@@ -8,7 +8,7 @@ I'm a student-programmer from Moscow, working in a .NET develompent field. My ar
 * 🔨 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
 * 📚 I’m currently learning SQL and Entity Framework Core
 
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 ![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ffE152&labelColor=0d1117)
 ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=ffE152&labelColor=0d1117)
 ![.NET](https://img.shields.io/badge/.NET-informational?style=flat&logo=.NET&color=ffE152&labelColor=0d1117)
