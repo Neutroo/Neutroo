@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=Telegram&color=26A5E4)](https://t.me/neutr0o)
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&color=E4405F&logoColor=white)](https://www.instagram.com/nyautro)
 
-I'm a student-programmer from Moscow, working in a .NET develompent field. My area of interest is also low-level programming & IoT.
+I'm a student-programmer from Moscow, working in a .NET development field. My area of interest is also low-level programming & IoT.
 * 🔨 I’m currently working on my project [MapPainter](https://github.com/Neutroo/MapPainter)
 * 📚 I’m currently learning SQL and Entity Framework Core
 
