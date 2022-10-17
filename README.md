@@ -12,9 +12,11 @@ I'm a student-programmer from Moscow, working in a .NET development field. My ar
 ![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ffE152&labelColor=0d1117)
 ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=ffE152&labelColor=0d1117)
 ![.NET](https://img.shields.io/badge/.NET-informational?style=flat&logo=.NET&color=ffE152&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&color=ffE152&labelColor=0d1117)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&color=ffE152&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=ffE152&labelColor=0d1117)
-![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=ffE152&labelColor=0d1117)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=InfluxDB&color=ffE152&labelColor=0d1117)
+![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat&logo=Grafana&color=ffE152&labelColor=0d1117)
+![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&color=ffE152&labelColor=0d1117)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-informational?style=flat&logo=Visual-Studio&color=ffE152&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=ffE152&labelColor=0d1117)
 
