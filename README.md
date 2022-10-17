@@ -9,20 +9,20 @@ I'm a student-programmer from Moscow, working in a .NET development field. My ar
 * 📚 I’m currently learning SQL and Entity Framework Core
 
 ## 🧰 Languages and Tools
-![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ffE152&labelColor=0d1117)
-![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=ffE152&labelColor=0d1117)
-![.NET](https://img.shields.io/badge/.NET-informational?style=flat&logo=.NET&color=ffE152&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&color=ffE152&labelColor=0d1117)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&color=ffE152&labelColor=0d1117)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=InfluxDB&color=ffE152&labelColor=0d1117)
-![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat&logo=Grafana&color=ffE152&labelColor=0d1117)
-![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&color=ffE152&labelColor=0d1117)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-informational?style=flat&logo=Visual-Studio&color=ffE152&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=ffE152&labelColor=0d1117)
+![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ce2d6d&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=ce2d6d&labelColor=0d1117)
+![.NET](https://img.shields.io/badge/.NET-informational?style=flat&logo=.NET&color=ce2d6d&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&color=ce2d6d&labelColor=0d1117)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&color=ce2d6d&labelColor=0d1117)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=InfluxDB&color=ce2d6d&labelColor=0d1117)
+![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat&logo=Grafana&color=ce2d6d&labelColor=0d1117)
+![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&color=ce2d6d&labelColor=0d1117)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-informational?style=flat&logo=Visual-Studio&color=ce2d6d&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=ce2d6d&labelColor=0d1117)
 
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=ffE152&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=b93fb8&border_color=ffE152" alt="neutroo"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=ffE152&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ffE152" alt="neutroo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=ce2d6d&text_color=ffffff&bg_color=0d1117&locale=en&line_height=20&icon_color=b93fb8&border_color=ce2d6d" alt="neutroo"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=ce2d6d&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ce2d6d" alt="neutroo"/>
 </p>
