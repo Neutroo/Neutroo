@@ -12,6 +12,8 @@ I'm a student-programmer from Moscow, working in a .NET development field. My ar
 ![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ce2d6d&labelColor=0d1117)
 ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&color=ce2d6d&labelColor=0d1117)
 ![.NET](https://img.shields.io/badge/.NET-informational?style=flat&logo=.NET&color=ce2d6d&labelColor=0d1117)
+![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&color=ce2d6d&labelColor=0d1117)
+![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&color=ce2d6d&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&color=ce2d6d&labelColor=0d1117)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&color=ce2d6d&labelColor=0d1117)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-informational?style=flat&logo=InfluxDB&color=ce2d6d&labelColor=0d1117)
