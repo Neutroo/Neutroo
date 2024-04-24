@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&color=E4405F&logoColor=white)](https://www.instagram.com/nyautro)
 
 I'm a student-programmer from Moscow, working in a .NET development field. My area of interest is also low-level programming & IoT.
-* 🔨 I’m currently working on my project [Microclimate Measurement System](https://github.com/Neutroo/Microclimate-Measurement-System)
-* 📚 I’m currently learning SQL and Entity Framework Core
+* 🔨 I’m currently working on my project [Measurement System](https://github.com/Neutroo/MeasurementSystem)
+* 📚 I’m currently learning Vue.js
 
 ## 🧰 Languages and Tools
 ![CSharp](https://img.shields.io/badge/CSharp-informational?style=flat&logo=CSharp&color=ce2d6d&labelColor=0d1117)
