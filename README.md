@@ -26,5 +26,5 @@ I'm a student-programmer from Moscow, working in a .NET development field. My ar
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=neutroo&show_icons=true&title_color=ce2d6d&text_color=ffffff&bg_color=0d1117&locale=en&line_height=26&icon_color=b93fb8&border_color=ce2d6d" alt="neutroo"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&title_color=ce2d6d&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ce2d6d" alt="neutroo"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutroo&show_icons=true&langs_count=3&title_color=ce2d6d&text_color=ffffff&bg_color=0d1117&locale=en&border_color=ce2d6d" alt="neutroo"/>
 </div>
